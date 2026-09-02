@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-01",
-  "count": 7,
-  "shown": 7,
+  "date": "2026-09-02",
+  "count": 9,
+  "shown": 9,
   "candidates": [
     {
       "rank": 1,
@@ -14,39 +14,25 @@
       "rvol": 0.91,
       "hist_r": -5.7,
       "ext_atr": 0.75,
-      "rank_score": 0.7333,
+      "rank_score": 0.725,
       "tp_pct": 7.54
     },
     {
       "rank": 2,
-      "symbol": "ELV",
-      "setup": "EMA50",
-      "entry": 403.04,
-      "stop": 388.2961963613427,
-      "target": 425.15570545798596,
-      "risk_pct": 3.6581489774358156,
-      "rvol": 2.26,
-      "hist_r": -1.1,
-      "ext_atr": 1.08,
-      "rank_score": 0.6583,
-      "tp_pct": 5.49
+      "symbol": "CAH",
+      "setup": "EMA20/40",
+      "entry": 239.35,
+      "stop": 231.16763386841745,
+      "target": 251.6235491973738,
+      "risk_pct": 3.418577869890345,
+      "rvol": 0.99,
+      "hist_r": 10.8,
+      "ext_atr": 1.66,
+      "rank_score": 0.5938,
+      "tp_pct": 5.13
     },
     {
       "rank": 3,
-      "symbol": "KHC",
-      "setup": "EMA50",
-      "entry": 25.87,
-      "stop": 24.831694679646134,
-      "target": 27.427457980530804,
-      "risk_pct": 4.0135497501115855,
-      "rvol": 1.06,
-      "hist_r": 1.5,
-      "ext_atr": 1.06,
-      "rank_score": 0.6333,
-      "tp_pct": 6.02
-    },
-    {
-      "rank": 4,
       "symbol": "CRMD",
       "setup": "EMA20/40",
       "entry": 8.38,
@@ -56,11 +42,11 @@
       "rvol": 0.58,
       "hist_r": -3.0,
       "ext_atr": 0.97,
-      "rank_score": 0.5167,
+      "rank_score": 0.5813,
       "tp_pct": 9.9
     },
     {
-      "rank": 5,
+      "rank": 4,
       "symbol": "QSR",
       "setup": "EMA20/40",
       "entry": 78.22,
@@ -70,11 +56,11 @@
       "rvol": 0.86,
       "hist_r": -6.4,
       "ext_atr": 1.27,
-      "rank_score": 0.3417,
+      "rank_score": 0.5438,
       "tp_pct": 4.73
     },
     {
-      "rank": 6,
+      "rank": 5,
       "symbol": "PGR",
       "setup": "EMA20/40",
       "entry": 220.54,
@@ -84,8 +70,22 @@
       "rvol": 0.78,
       "hist_r": -0.7,
       "ext_atr": 1.33,
-      "rank_score": 0.325,
+      "rank_score": 0.525,
       "tp_pct": 4.77
+    },
+    {
+      "rank": 6,
+      "symbol": "DHT",
+      "setup": "EMA20",
+      "entry": 19.69,
+      "stop": 18.64010938580693,
+      "target": 21.26483592128961,
+      "risk_pct": 5.332100630741854,
+      "rvol": 0.95,
+      "hist_r": 0.0,
+      "ext_atr": 1.5,
+      "rank_score": 0.5125,
+      "tp_pct": 8.0
     },
     {
       "rank": 7,
@@ -98,12 +98,40 @@
       "rvol": 1.43,
       "hist_r": -1.1,
       "ext_atr": 2.16,
-      "rank_score": 0.2917,
+      "rank_score": 0.3875,
       "tp_pct": 6.97
+    },
+    {
+      "rank": 8,
+      "symbol": "OGN",
+      "setup": "EMA20/40",
+      "entry": 13.76,
+      "stop": 13.704424728284437,
+      "target": 13.843362907573344,
+      "risk_pct": 0.40389005607240613,
+      "rvol": 1.08,
+      "hist_r": 0.5,
+      "ext_atr": 8.66,
+      "rank_score": 0.325,
+      "tp_pct": 0.61
+    },
+    {
+      "rank": 9,
+      "symbol": "AAPL",
+      "setup": "EMA20/40",
+      "entry": 325.13,
+      "stop": 313.717998789193,
+      "target": 342.2480018162105,
+      "risk_pct": 3.5099809955423917,
+      "rvol": 0.58,
+      "hist_r": 3.9,
+      "ext_atr": 1.86,
+      "rank_score": 0.3063,
+      "tp_pct": 5.26
     }
   ],
   "_meta": {
-    "updatedAt": "01/09/2026 23:38",
+    "updatedAt": "02/09/2026 08:18",
     "source": "ibkr-swing-system"
   }
 }
