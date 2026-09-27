@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-27",
   "count": 48,
   "shown": 48,
   "candidates": [
@@ -14,7 +14,7 @@
       "rvol": 1.46,
       "hist_r": 2.6,
       "ext_atr": 0.34,
-      "rank_score": 0.8862,
+      "rank_score": 0.8819,
       "tp_pct": 7.39
     },
     {
@@ -28,25 +28,11 @@
       "rvol": 0.86,
       "hist_r": 2.5,
       "ext_atr": 0.63,
-      "rank_score": 0.784,
+      "rank_score": 0.7755,
       "tp_pct": 5.14
     },
     {
       "rank": 3,
-      "symbol": "CVX",
-      "setup": "EMA50",
-      "entry": 204.45,
-      "stop": 197.9116764502425,
-      "target": 214.2574853246362,
-      "risk_pct": 3.1980061383015306,
-      "rvol": 5.54,
-      "hist_r": 2.9,
-      "ext_atr": 0.65,
-      "rank_score": 0.7787,
-      "tp_pct": 4.8
-    },
-    {
-      "rank": 4,
       "symbol": "EOLS",
       "setup": "EMA50",
       "entry": 7.97,
@@ -60,7 +46,7 @@
       "tp_pct": 10.37
     },
     {
-      "rank": 5,
+      "rank": 4,
       "symbol": "AVAH",
       "setup": "EMA50",
       "entry": 12.41,
@@ -72,6 +58,20 @@
       "ext_atr": 0.62,
       "rank_score": 0.7309,
       "tp_pct": 9.7
+    },
+    {
+      "rank": 5,
+      "symbol": "CVX",
+      "setup": "EMA50",
+      "entry": 204.45,
+      "stop": 197.9116764502425,
+      "target": 214.2574853246362,
+      "risk_pct": 3.1980061383015306,
+      "rvol": 5.54,
+      "hist_r": 2.9,
+      "ext_atr": 0.65,
+      "rank_score": 0.7298,
+      "tp_pct": 4.8
     },
     {
       "rank": 6,
@@ -112,25 +112,11 @@
       "rvol": 0.86,
       "hist_r": 11.0,
       "ext_atr": 1.11,
-      "rank_score": 0.7202,
+      "rank_score": 0.7245,
       "tp_pct": 4.26
     },
     {
       "rank": 9,
-      "symbol": "TECK",
-      "setup": "EMA40/50",
-      "entry": 66.05,
-      "stop": 62.564677324099314,
-      "target": 71.27798401385103,
-      "risk_pct": 5.2767943616967194,
-      "rvol": 1.0,
-      "hist_r": -0.5,
-      "ext_atr": 0.26,
-      "rank_score": 0.7085,
-      "tp_pct": 7.92
-    },
-    {
-      "rank": 10,
       "symbol": "ACCO",
       "setup": "EMA40/50",
       "entry": 4.31,
@@ -140,11 +126,11 @@
       "rvol": 0.71,
       "hist_r": 2.6,
       "ext_atr": 0.77,
-      "rank_score": 0.6862,
+      "rank_score": 0.6904,
       "tp_pct": 6.63
     },
     {
-      "rank": 11,
+      "rank": 10,
       "symbol": "BBY",
       "setup": "EMA20/40",
       "entry": 90.51,
@@ -158,21 +144,21 @@
       "tp_pct": 7.92
     },
     {
-      "rank": 12,
-      "symbol": "U",
+      "rank": 11,
+      "symbol": "TECK",
       "setup": "EMA40/50",
-      "entry": 41.55,
-      "stop": 38.53675053907973,
-      "target": 46.06987419138039,
-      "risk_pct": 7.252104599086075,
-      "rvol": 3.0,
-      "hist_r": -1.5,
-      "ext_atr": 0.8,
-      "rank_score": 0.6394,
-      "tp_pct": 10.88
+      "entry": 66.05,
+      "stop": 62.564677324099314,
+      "target": 71.27798401385103,
+      "risk_pct": 5.2767943616967194,
+      "rvol": 1.0,
+      "hist_r": -0.5,
+      "ext_atr": 0.26,
+      "rank_score": 0.6404,
+      "tp_pct": 7.92
     },
     {
-      "rank": 13,
+      "rank": 12,
       "symbol": "PK",
       "setup": "EMA50",
       "entry": 15.43,
@@ -186,21 +172,21 @@
       "tp_pct": 5.92
     },
     {
-      "rank": 14,
-      "symbol": "TGT",
+      "rank": 13,
+      "symbol": "U",
       "setup": "EMA40/50",
-      "entry": 157.45,
-      "stop": 151.55472312410993,
-      "target": 166.29291531383507,
-      "risk_pct": 3.7442215788441167,
-      "rvol": 0.66,
-      "hist_r": 5.5,
-      "ext_atr": 1.1,
-      "rank_score": 0.6106,
-      "tp_pct": 5.62
+      "entry": 41.55,
+      "stop": 38.53675053907973,
+      "target": 46.06987419138039,
+      "risk_pct": 7.252104599086075,
+      "rvol": 3.0,
+      "hist_r": -1.5,
+      "ext_atr": 0.8,
+      "rank_score": 0.6138,
+      "tp_pct": 10.88
     },
     {
-      "rank": 15,
+      "rank": 14,
       "symbol": "FCX",
       "setup": "EMA40/50",
       "entry": 72.31,
@@ -214,7 +200,7 @@
       "tp_pct": 8.41
     },
     {
-      "rank": 16,
+      "rank": 15,
       "symbol": "BBVA",
       "setup": "EMA50",
       "entry": 28.87,
@@ -224,25 +210,11 @@
       "rvol": 0.81,
       "hist_r": 12.1,
       "ext_atr": 1.72,
-      "rank_score": 0.6074,
+      "rank_score": 0.6032,
       "tp_pct": 4.21
     },
     {
-      "rank": 17,
-      "symbol": "VRTX",
-      "setup": "EMA50",
-      "entry": 526.19,
-      "stop": 507.4390616855169,
-      "target": 554.3164074717248,
-      "risk_pct": 3.5635299634130564,
-      "rvol": 0.66,
-      "hist_r": 3.0,
-      "ext_atr": 1.0,
-      "rank_score": 0.5968,
-      "tp_pct": 5.35
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "symbol": "XMTR",
       "setup": "EMA20",
       "entry": 100.57,
@@ -252,11 +224,11 @@
       "rvol": 2.22,
       "hist_r": 4.7,
       "ext_atr": 1.71,
-      "rank_score": 0.5862,
+      "rank_score": 0.5926,
       "tp_pct": 11.88
     },
     {
-      "rank": 19,
+      "rank": 17,
       "symbol": "NAT",
       "setup": "EMA20",
       "entry": 7.72,
@@ -270,7 +242,7 @@
       "tp_pct": 8.76
     },
     {
-      "rank": 20,
+      "rank": 18,
       "symbol": "HNGE",
       "setup": "EMA20",
       "entry": 95.57,
@@ -284,7 +256,7 @@
       "tp_pct": 9.84
     },
     {
-      "rank": 21,
+      "rank": 19,
       "symbol": "SOLV",
       "setup": "EMA40/50",
       "entry": 89.5,
@@ -298,18 +270,46 @@
       "tp_pct": 5.15
     },
     {
-      "rank": 22,
-      "symbol": "SU",
+      "rank": 20,
+      "symbol": "TGT",
       "setup": "EMA40/50",
-      "entry": 68.19,
-      "stop": 65.48596538802332,
-      "target": 72.24605191796502,
-      "risk_pct": 3.9654415779097834,
-      "rvol": 0.65,
-      "hist_r": 1.8,
+      "entry": 157.45,
+      "stop": 151.55472312410993,
+      "target": 166.29291531383507,
+      "risk_pct": 3.7442215788441167,
+      "rvol": 0.66,
+      "hist_r": 5.5,
+      "ext_atr": 1.1,
+      "rank_score": 0.5553,
+      "tp_pct": 5.62
+    },
+    {
+      "rank": 21,
+      "symbol": "VRTX",
+      "setup": "EMA50",
+      "entry": 526.19,
+      "stop": 507.4390616855169,
+      "target": 554.3164074717248,
+      "risk_pct": 3.5635299634130564,
+      "rvol": 0.66,
+      "hist_r": 3.0,
       "ext_atr": 1.0,
-      "rank_score": 0.5372,
-      "tp_pct": 5.95
+      "rank_score": 0.5489,
+      "tp_pct": 5.35
+    },
+    {
+      "rank": 22,
+      "symbol": "MET",
+      "setup": "EMA40/50",
+      "entry": 97.7,
+      "stop": 94.93028604767487,
+      "target": 101.8545709284877,
+      "risk_pct": 2.83491704434507,
+      "rvol": 1.0,
+      "hist_r": 1.3,
+      "ext_atr": 1.41,
+      "rank_score": 0.534,
+      "tp_pct": 4.25
     },
     {
       "rank": 23,
@@ -322,22 +322,22 @@
       "rvol": 0.56,
       "hist_r": 3.2,
       "ext_atr": 1.57,
-      "rank_score": 0.533,
+      "rank_score": 0.5287,
       "tp_pct": 10.01
     },
     {
       "rank": 24,
-      "symbol": "MET",
+      "symbol": "SU",
       "setup": "EMA40/50",
-      "entry": 97.7,
-      "stop": 94.93028604767487,
-      "target": 101.8545709284877,
-      "risk_pct": 2.83491704434507,
-      "rvol": 1.0,
-      "hist_r": 1.3,
-      "ext_atr": 1.41,
-      "rank_score": 0.5138,
-      "tp_pct": 4.25
+      "entry": 68.19,
+      "stop": 65.48596538802332,
+      "target": 72.24605191796502,
+      "risk_pct": 3.9654415779097834,
+      "rvol": 0.65,
+      "hist_r": 1.8,
+      "ext_atr": 1.0,
+      "rank_score": 0.5181,
+      "tp_pct": 5.95
     },
     {
       "rank": 25,
@@ -350,7 +350,7 @@
       "rvol": 0.97,
       "hist_r": 2.5,
       "ext_atr": 2.01,
-      "rank_score": 0.4989,
+      "rank_score": 0.5032,
       "tp_pct": 8.83
     },
     {
@@ -378,25 +378,11 @@
       "rvol": 0.94,
       "hist_r": 6.5,
       "ext_atr": 2.08,
-      "rank_score": 0.4798,
+      "rank_score": 0.4894,
       "tp_pct": 7.59
     },
     {
       "rank": 28,
-      "symbol": "INSP",
-      "setup": "EMA20",
-      "entry": 70.5,
-      "stop": 65.45532953795521,
-      "target": 78.06700569306719,
-      "risk_pct": 7.155560939070627,
-      "rvol": 0.77,
-      "hist_r": 3.0,
-      "ext_atr": 2.34,
-      "rank_score": 0.4745,
-      "tp_pct": 10.73
-    },
-    {
-      "rank": 29,
       "symbol": "AMGN",
       "setup": "EMA20/40",
       "entry": 414.61,
@@ -406,8 +392,22 @@
       "rvol": 0.9,
       "hist_r": 0.7,
       "ext_atr": 1.47,
-      "rank_score": 0.4723,
+      "rank_score": 0.4883,
       "tp_pct": 5.78
+    },
+    {
+      "rank": 29,
+      "symbol": "INSP",
+      "setup": "EMA20",
+      "entry": 70.5,
+      "stop": 65.45532953795521,
+      "target": 78.06700569306719,
+      "risk_pct": 7.155560939070627,
+      "rvol": 0.77,
+      "hist_r": 3.0,
+      "ext_atr": 2.34,
+      "rank_score": 0.4787,
+      "tp_pct": 10.73
     },
     {
       "rank": 30,
@@ -420,53 +420,11 @@
       "rvol": 1.35,
       "hist_r": 3.7,
       "ext_atr": 2.68,
-      "rank_score": 0.4564,
+      "rank_score": 0.45,
       "tp_pct": 6.59
     },
     {
       "rank": 31,
-      "symbol": "CRON",
-      "setup": "EMA20/40",
-      "entry": 3.34,
-      "stop": 3.1862942167247392,
-      "target": 3.570558674912891,
-      "risk_pct": 4.60196955913954,
-      "rvol": 0.49,
-      "hist_r": 4.3,
-      "ext_atr": 1.74,
-      "rank_score": 0.4319,
-      "tp_pct": 6.9
-    },
-    {
-      "rank": 32,
-      "symbol": "WAT",
-      "setup": "EMA20",
-      "entry": 433.54,
-      "stop": 416.40040109490093,
-      "target": 459.24939835764866,
-      "risk_pct": 3.9534065841904074,
-      "rvol": 0.84,
-      "hist_r": 4.2,
-      "ext_atr": 2.55,
-      "rank_score": 0.4053,
-      "tp_pct": 5.93
-    },
-    {
-      "rank": 33,
-      "symbol": "EFOR",
-      "setup": "EMA20",
-      "entry": 33.12,
-      "stop": 30.580616675686638,
-      "target": 36.929074986470035,
-      "risk_pct": 7.667220182105554,
-      "rvol": 0.67,
-      "hist_r": 0.1,
-      "ext_atr": 1.9,
-      "rank_score": 0.3809,
-      "tp_pct": 11.5
-    },
-    {
-      "rank": 34,
       "symbol": "EHC",
       "setup": "EMA20/40",
       "entry": 123.47,
@@ -476,11 +434,67 @@
       "rvol": 0.96,
       "hist_r": -9.0,
       "ext_atr": 1.62,
-      "rank_score": 0.3713,
+      "rank_score": 0.4128,
       "tp_pct": 5.32
     },
     {
+      "rank": 32,
+      "symbol": "CRON",
+      "setup": "EMA20/40",
+      "entry": 3.34,
+      "stop": 3.1862942167247392,
+      "target": 3.570558674912891,
+      "risk_pct": 4.60196955913954,
+      "rvol": 0.49,
+      "hist_r": 4.3,
+      "ext_atr": 1.74,
+      "rank_score": 0.4096,
+      "tp_pct": 6.9
+    },
+    {
+      "rank": 33,
+      "symbol": "WAT",
+      "setup": "EMA20",
+      "entry": 433.54,
+      "stop": 416.40040109490093,
+      "target": 459.24939835764866,
+      "risk_pct": 3.9534065841904074,
+      "rvol": 0.84,
+      "hist_r": 4.2,
+      "ext_atr": 2.55,
+      "rank_score": 0.4021,
+      "tp_pct": 5.93
+    },
+    {
+      "rank": 34,
+      "symbol": "EFOR",
+      "setup": "EMA20",
+      "entry": 33.12,
+      "stop": 30.580709182208736,
+      "target": 36.928936226686886,
+      "risk_pct": 7.666940874973617,
+      "rvol": 0.67,
+      "hist_r": 0.1,
+      "ext_atr": 1.9,
+      "rank_score": 0.3809,
+      "tp_pct": 11.5
+    },
+    {
       "rank": 35,
+      "symbol": "NMAX",
+      "setup": "EMA20",
+      "entry": 10.87,
+      "stop": 10.007434341238525,
+      "target": 12.16384848814221,
+      "risk_pct": 7.935286649139595,
+      "rvol": 0.56,
+      "hist_r": -2.0,
+      "ext_atr": 1.53,
+      "rank_score": 0.3734,
+      "tp_pct": 11.9
+    },
+    {
+      "rank": 36,
       "symbol": "TAK",
       "setup": "EMA20",
       "entry": 18.86,
@@ -494,7 +508,7 @@
       "tp_pct": 3.39
     },
     {
-      "rank": 36,
+      "rank": 37,
       "symbol": "CNK",
       "setup": "EMA20",
       "entry": 37.77,
@@ -504,25 +518,25 @@
       "rvol": 1.54,
       "hist_r": -3.0,
       "ext_atr": 2.32,
-      "rank_score": 0.3596,
+      "rank_score": 0.3691,
       "tp_pct": 6.88
     },
     {
-      "rank": 37,
-      "symbol": "JCI",
-      "setup": "EMA20/40",
-      "entry": 150.2,
-      "stop": 144.80217503667058,
-      "target": 158.2967374449941,
-      "risk_pct": 3.593758297822512,
-      "rvol": 0.57,
-      "hist_r": -3.0,
-      "ext_atr": 1.68,
-      "rank_score": 0.35,
-      "tp_pct": 5.39
+      "rank": 38,
+      "symbol": "MSFT",
+      "setup": "EMA20",
+      "entry": 516.17,
+      "stop": 498.502929347084,
+      "target": 542.6706059793739,
+      "risk_pct": 3.4227232603436817,
+      "rvol": 0.58,
+      "hist_r": 9.1,
+      "ext_atr": 3.36,
+      "rank_score": 0.3362,
+      "tp_pct": 5.13
     },
     {
-      "rank": 38,
+      "rank": 39,
       "symbol": "AAPL",
       "setup": "EMA20",
       "entry": 341.07,
@@ -536,21 +550,21 @@
       "tp_pct": 4.6
     },
     {
-      "rank": 39,
-      "symbol": "NMAX",
-      "setup": "EMA20",
-      "entry": 10.87,
-      "stop": 10.007434341238525,
-      "target": 12.16384848814221,
-      "risk_pct": 7.935286649139595,
-      "rvol": 0.56,
-      "hist_r": -2.0,
-      "ext_atr": 1.53,
-      "rank_score": 0.3213,
-      "tp_pct": 11.9
+      "rank": 40,
+      "symbol": "JCI",
+      "setup": "EMA20/40",
+      "entry": 150.2,
+      "stop": 144.80217503667058,
+      "target": 158.2967374449941,
+      "risk_pct": 3.593758297822512,
+      "rvol": 0.57,
+      "hist_r": -3.0,
+      "ext_atr": 1.68,
+      "rank_score": 0.3234,
+      "tp_pct": 5.39
     },
     {
-      "rank": 40,
+      "rank": 41,
       "symbol": "ITGR",
       "setup": "EMA20",
       "entry": 126.34,
@@ -564,35 +578,7 @@
       "tp_pct": 0.97
     },
     {
-      "rank": 41,
-      "symbol": "MSFT",
-      "setup": "EMA20",
-      "entry": 516.17,
-      "stop": 498.502929347084,
-      "target": 542.6706059793739,
-      "risk_pct": 3.4227232603436817,
-      "rvol": 0.58,
-      "hist_r": 9.1,
-      "ext_atr": 3.36,
-      "rank_score": 0.3074,
-      "tp_pct": 5.13
-    },
-    {
       "rank": 42,
-      "symbol": "MRK",
-      "setup": "EMA20",
-      "entry": 148.78,
-      "stop": 143.3851136033121,
-      "target": 156.87232959503183,
-      "risk_pct": 3.6260830734560385,
-      "rvol": 0.44,
-      "hist_r": 0.5,
-      "ext_atr": 2.11,
-      "rank_score": 0.284,
-      "tp_pct": 5.44
-    },
-    {
-      "rank": 43,
       "symbol": "GILD",
       "setup": "EMA20",
       "entry": 150.93,
@@ -602,25 +588,25 @@
       "rvol": 0.81,
       "hist_r": -3.2,
       "ext_atr": 2.15,
-      "rank_score": 0.2691,
+      "rank_score": 0.3053,
       "tp_pct": 5.35
     },
     {
-      "rank": 44,
-      "symbol": "PFE",
+      "rank": 43,
+      "symbol": "MRK",
       "setup": "EMA20",
-      "entry": 28.67,
-      "stop": 27.908650961720816,
-      "target": 29.81202355741878,
-      "risk_pct": 2.6555599521422573,
-      "rvol": 0.67,
-      "hist_r": -2.9,
-      "ext_atr": 2.82,
-      "rank_score": 0.2202,
-      "tp_pct": 3.98
+      "entry": 148.78,
+      "stop": 143.3851136033121,
+      "target": 156.87232959503183,
+      "risk_pct": 3.6260830734560385,
+      "rvol": 0.44,
+      "hist_r": 0.5,
+      "ext_atr": 2.11,
+      "rank_score": 0.2777,
+      "tp_pct": 5.44
     },
     {
-      "rank": 45,
+      "rank": 44,
       "symbol": "PAYO",
       "setup": "EMA20/40",
       "entry": 7.17,
@@ -630,8 +616,22 @@
       "rvol": 0.57,
       "hist_r": 2.9,
       "ext_atr": 4.02,
-      "rank_score": 0.2191,
+      "rank_score": 0.2755,
       "tp_pct": 1.19
+    },
+    {
+      "rank": 45,
+      "symbol": "PFE",
+      "setup": "EMA20",
+      "entry": 28.67,
+      "stop": 27.908650961720816,
+      "target": 29.81202355741878,
+      "risk_pct": 2.6555599521422573,
+      "rvol": 0.67,
+      "hist_r": -2.9,
+      "ext_atr": 2.82,
+      "rank_score": 0.2298,
+      "tp_pct": 3.98
     },
     {
       "rank": 46,
@@ -658,7 +658,7 @@
       "rvol": 0.49,
       "hist_r": -1.3,
       "ext_atr": 4.5,
-      "rank_score": 0.1617,
+      "rank_score": 0.1585,
       "tp_pct": 0.6
     },
     {
@@ -672,12 +672,12 @@
       "rvol": 0.29,
       "hist_r": -2.1,
       "ext_atr": 8.79,
-      "rank_score": 0.0617,
+      "rank_score": 0.1128,
       "tp_pct": 2.46
     }
   ],
   "_meta": {
-    "updatedAt": "25/09/2026 23:42",
+    "updatedAt": "27/09/2026 15:31",
     "source": "ibkr-swing-system"
   }
 }
