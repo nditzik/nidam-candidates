@@ -1,0 +1,7 @@
+# מה שנדרש להרצת offline_scan.py ולשחזור הסריקה (נבדק עם Python 3.13)
+pandas==3.0.3
+numpy==2.4.6
+
+# נדרש רק לקוד המקורי שמושך נרות מ-IBKR (code/scan.py, code/src/data/history.py).
+# לא נדרש לסריקה בענן על נרות Yahoo:
+# ib_async==2.1.0
